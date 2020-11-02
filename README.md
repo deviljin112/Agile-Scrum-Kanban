@@ -9,9 +9,7 @@
 
 ## Agile
 
-Epics are not essential for an implementation of agile however, they are a practical driver for most teams. Understading how, why and what is required for a completion of a project creates a much healthier context for a team. It reduces risks and any potential issues that the team may face.
-
-On the other hand, the idea of Epic and User Story fits well with the process and hierarchy of agile. As agile already follows the idea of breaking each subject into a smaller adaptable tasks. Although Epic and User story is mostly implemented with agile organisations that also make use of Scrum.
+Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. Instead of betting everything on a "big bang" launch, an agile team delivers work in small, but consumable, increments. Requirements, plans, and results are evaluated continuously so teams have a natural mechanism for responding to change quickly.
 
 ## Scrum
 
