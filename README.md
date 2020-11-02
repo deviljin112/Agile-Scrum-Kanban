@@ -11,6 +11,21 @@
 
 Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. Instead of betting everything on a "big bang" launch, an agile team delivers work in small, but consumable, increments. Requirements, plans, and results are evaluated continuously so teams have a natural mechanism for responding to change quickly.
 
+### How to implement
+
+1. The highest priority is to satisfy the customer through early and continuous delivery
+2. Welcome changing requirements, even late in development
+3. Deliver working software frequently, from a couple of weeks to a couple of months
+4. Stakeholders and developers must collaborate on a daily basis
+5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+6. Face-to-face meetings are deemed the most efficient and effective format for project success
+7. A final working product is the ultimate measure of progress
+8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+9. Continuous attention to technical excellence and good design enhances agility
+10. Simplicity—maximizing the work not done—is an essential element
+11. The best architectures, requirements, and designs emerge from self-organizing teams
+12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly
+
 ## Scrum
 
 A scrum framework allows teams to create multiple boards for each team. These boards would have a global epic that they would follow. While each team would have their own interpretations of the user stories that they will fullfil to complete an Epic.
@@ -131,6 +146,21 @@ Key elements:
 #### Example 2
 
 Multiple teams are working on a project. The client asks that they want X Y Z functionality in their software as this will allow them to be more efficient (for example). These X Y Z conditions would be considered a story together with the reasoning for why they should be created. As the client is after efficiency the team knows what they need to keep in mind while fullfilling the requirements.
+
+### Poker Planning
+
+Planning poker (also known as Scrum poker) is a consensus-based, gamified technique for estimating, mostly used to estimate effort or relative size of development goals in software development.
+
+### Invest
+
+A good user story should be:
+
+- “I” ndependent (of all others)
+- “N” egotiable (not a specific contract for features)
+- “V” aluable (or vertical)
+- “E” stimable (to a good approximation)
+- “S” mall (so as to fit within an iteration)
+- “T” estable (in principle, even if there isn’t a test for it yet)
 
 ## Kanban
 
